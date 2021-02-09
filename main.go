@@ -3,7 +3,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"wxmp/routers/routers.go"
+	"github.com/wjzmm/wxmp/routers/routers.go"
 )
 
 
